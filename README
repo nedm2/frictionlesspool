@@ -1,0 +1,15 @@
+This is a small experiment that arose from a fairly stupid discussion
+I had while playing pool during lunch one day. We were hammering the 
+white ball around the table and came to wondering, if the table were 
+frictionless such that the ball would keep rebounding elastically off
+the cushions forever and you hit the ball in a random direction, how 
+many cushions would you rebound off before the ball ended up in a pocket?
+
+The table, ball and pockets are to EPA standards, although the middle
+pockets protrude into the table too much because it was easier to
+write that way.
+
+The median turns out to be 10 cushions. There you go. 
+
+You'll need pygame to run it:
+sudo apt-get install python-pygame
